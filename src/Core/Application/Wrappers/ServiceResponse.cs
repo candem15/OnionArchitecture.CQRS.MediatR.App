@@ -14,7 +14,7 @@ namespace Application.Wrappers
 
         }
 
-        public ServiceResponse(T value)
+        public ServiceResponse()
         {
 
         }
